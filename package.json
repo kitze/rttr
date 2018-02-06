@@ -2,12 +2,23 @@
   "name": "rttr",
   "version": "1.0.0",
   "description": "A tiny router for mobx-state-tree-apps",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "del-cli dist && babel src -d dist"
   },
-  "keywords": [],
+  "files": [
+    "dist/",
+    "src/"
+  ],
+  "keywords": [
+    "kitze",
+    "rttr",
+    "router",
+    "react",
+    "mobx-state-tree",
+    "whatever"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
