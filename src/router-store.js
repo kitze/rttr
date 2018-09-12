@@ -5,10 +5,10 @@ export const RouterStore = types
   .model({
     page: '',
     path: '/',
-    params: types.frozen,
-    queryParams: types.frozen,
-    extra: types.frozen,
-    options: types.frozen
+    params: types.frozen(),
+    queryParams: types.frozen(),
+    extra: types.frozen(),
+    options: types.frozen()
   })
   .views(self => ({
     get currentUrl() {
