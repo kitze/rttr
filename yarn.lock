@@ -7055,9 +7055,9 @@ mobx-state-tree@^3.3.0:
   integrity sha512-83tU3CdPDfSU6yPLcRGWcdkiQwPza+DXRroAbKfwArjTu9X2EqLmymXRSPjpEOrWG5qOC6r4bAs9YXvodOOD6w==
 
 mobx@^5.1.0:
-  version "5.7.0"
-  resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.7.0.tgz#dc58cd02fbacc5346071c3e6563b6507aff71f59"
-  integrity sha512-i+EwjPLq/QSvOFtAuhcd5FFWDxWK3gCJCFbW5dhgc4wsaHB/cL6DEVms3vZDgc2txWcfzjYWfknjggE/c0c4fw==
+  version "5.15.7"
+  resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.15.7.tgz#b9a5f2b6251f5d96980d13c78e9b5d8d4ce22665"
+  integrity sha512-wyM3FghTkhmC+hQjyPGGFdpehrcX1KOXsDuERhfK2YbJemkUhEB+6wzEN639T21onxlfYBmriA1PFnvxTUhcKw==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
